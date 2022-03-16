@@ -1,6 +1,6 @@
 # Rossmann Sales Prediction
 
-<p align="center"><<img src="https://media-cdn.tripadvisor.com/media/photo-s/16/e1/ec/f7/rossmann.jpg" align="center" ALT="HTML" width="alt%"/></p>
+<p align="center"><<img src="img/rossmann.jpg" align="center" ALT="HTML" width="alt%"/></p>
 
 ## Introduction
 
