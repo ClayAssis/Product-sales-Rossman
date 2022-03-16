@@ -1,6 +1,6 @@
 # Rossmann Sales Prediction
 
-<p align="center"><<img src="img/rossmann.jpg" align="center" ALT="HTML" width="alt%"/></p>
+<p align="center"><<img src="img/rossmann.png" align="center" ALT="HTML" width="alt%"/></p>
 
 ## Introduction
 
