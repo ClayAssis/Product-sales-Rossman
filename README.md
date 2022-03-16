@@ -28,9 +28,10 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 - Model and Business performance evaluation / Results;
 - Model deployment.
 
+
 &nbsp; 
   <p align="center">
-    <img width="50%" alt="drawing" src="https://miro.medium.com/max/700/1*JYbymHifAk7aQ1pHm_IdMQ.png">
+    <img width="100%" alt="drawing" src="img/crisp_cycle.png">
   </p>
   &nbsp; 
   
