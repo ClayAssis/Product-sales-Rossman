@@ -317,4 +317,3 @@ In this project, all necessary steps to deploy a complete Data Science project t
 
 # LICENSE
 MIT LICENSE
-# All Rights Reserved - Comunidade DS 2021
